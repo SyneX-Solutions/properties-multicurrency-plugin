@@ -1,0 +1,1 @@
+# properties-multicurrency-plugin
